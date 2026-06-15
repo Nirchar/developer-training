@@ -1,0 +1,22 @@
+body {
+    background-color: #f5f7fa;
+    font-family: Arial, sans-serif;
+}
+
+.table {
+    background: white;
+}
+
+.table th {
+    text-align: center;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.navbar-brand {
+    font-size: 22px;
+    color:#f5f7fa;
+}
+
